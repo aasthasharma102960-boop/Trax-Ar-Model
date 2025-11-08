@@ -17,7 +17,7 @@
         <a-marker preset='hiro'>
             
             <a-entity
-                gltf-model="url(https://cdn.glitch.com/b9764585-6126-4d05-a86d-f0cc04f5ac45%2Ft-rex-stand.glb?v=1602434539828)"
+                gltf-model="url(https://cdn.aframe.io/models/GltfLoader/Pacman/pacman.gltf)"
                 scale="0.5 0.5 0.5" 
                 rotation="-90 0 0" 
                 position="0 0 0">
